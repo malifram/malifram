@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhamad Alif Ramadhan</h1>
 <h3 align="center">A passionate Data Scientist from Indonesian</h3>
 
-- 🌱 I’m currently learning **Gunadarma University**
+- 📖 I’m currently learning at **Gunadarma University**
 
 - 💬 Ask me about **Python, ML/AI, Data Analysis**
 
-- 📫 How to reach me **muhamadalifram@gmail.com**
+- 📌 How to reach me **muhamadalifram@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
